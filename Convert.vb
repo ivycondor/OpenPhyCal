@@ -1,4 +1,8 @@
-﻿Public Class Convert
+'   This file stores the formula used for unit conversion'
+'   17a7ff2b6731@gmail.com
+'   2016    03  27
+
+Public Class Convert
     Public Sub Xcalc() Handles Button2.Click
         If TextBox1.TextLength <> 0 Then
             Try
