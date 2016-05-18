@@ -1,5 +1,4 @@
-﻿'   2016    3   27 (Easter)
-'   Author: Abdiel Reginald, 17a7ff2b6731@gmail.com
+'   2016    03  27
 '   This file is the formulas for PhyCal
 '   PhyCal is the project for Physic Project in JCTIC (2015-2016)
 '   Build:  16H12A
